@@ -1,2 +1,2 @@
-# MIP-Labor-5-Administrare-Magazin-projekt
+# MIP-Labor-5
 MIP
