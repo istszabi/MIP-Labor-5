@@ -1,0 +1,21 @@
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\Labor 5.exe.config
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\Labor 5.exe
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\Labor 5.pdb
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\EntityFramework.dll
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\EntityFramework.xml
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.csproj.AssemblyReference.cache
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor_5.Form1.resources
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor_5.Properties.Resources.resources
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.csproj.GenerateResource.cache
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.csproj.CoreCompileInputs.cache
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.csproj.Up2Date
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.exe
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.pdb
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\System.Data.SQLite.dll
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\istsz\source\repos\Labor 5\Labor 5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor 5.exe.config
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor_5.Form2.resources
+C:\Users\istsz\source\repos\Labor 5\Labor 5\obj\Debug\Labor_5.Form3.resources
